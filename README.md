@@ -42,10 +42,9 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 <h3>Program:
   
-```
 DEVELOPED BY : JEGATHEESWARI R
 REGISTER NUM : 212223230092
-```
+
 ```
 class VacuumCleanerAgent:
     def __init__(self):
@@ -104,7 +103,7 @@ agent.print_status()
 
 ```
 <h3>OUTPUT:
-[ai 1](https://github.com/user-attachments/assets/9658b9bb-140a-455a-bec1-e3772e666ac1)
+![ai 1](https://github.com/user-attachments/assets/095c65f8-354f-42f2-b395-6e8534bd3317)
 
 <h3>RESULT:
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
