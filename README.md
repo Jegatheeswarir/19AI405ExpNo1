@@ -97,7 +97,6 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 
-```
 <h3>OUTPUT:
 
 <h3>RESULT:
