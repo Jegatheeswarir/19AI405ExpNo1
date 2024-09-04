@@ -40,6 +40,7 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
 <h3>Program:
 ```
 class VacuumCleanerAgent:
@@ -85,10 +86,10 @@ class VacuumCleanerAgent:
         # Print the current status of the agent
         print(f"Location: {self.location}, Dirt Status: {self.dirt_status}")
 
-# Example usage:
+#Example usage:
 agent = VacuumCleanerAgent()
 
-# Move the agent, suck dirt, and do nothing
+#Move the agent, suck dirt, and do nothing
 
 agent.perform_action("left")
 agent.print_status()
