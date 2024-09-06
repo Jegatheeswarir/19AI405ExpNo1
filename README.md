@@ -60,7 +60,6 @@
 
 ### OUTPUT:
 
-![image](https://github.com/Abrinnisha6/19AI405ExpNo1/assets/118889454/d25b99e5-e78b-4193-ab41-ff72eb3a0bc6)
 
 ### RESULT:
 
